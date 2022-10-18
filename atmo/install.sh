@@ -1,5 +1,5 @@
 #!/bin/sh
-
+#-represents comments
 kubectl create namespace suborbital
 
 # add the PVC
