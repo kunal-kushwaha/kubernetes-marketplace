@@ -1,5 +1,5 @@
 #!/bin/bash
-#providing the version number
+#providing the version
 VERSION=1.13.10
 NS=ambassador
 
