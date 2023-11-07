@@ -1,0 +1,34 @@
+title: "gretacorp Vault"
+name: gretacorp-vault
+version: "0.19.0"
+maintainer: "@Cleft_Chin9"
+description: "Secure, store and tightly control access to tokens, passwords, certificates, encryption keys for protecting secrets and other sensitive data."
+url: https://youtube.com/@Cleft_Chin9?feature=shared
+category: encoding 
+plans:
+  - label: "Captcha"
+    configuration: "@Cleft_Chin9"
+      INSTALL_MODE: manually
+        value: "Captcha"
+  - label: "DevOps"
+    configuration:
+      INSTALL_MODE:
+        value: "@Cleft_Chin9
+    -  label: "encoding"
+    configuration: "@Cleft_Chin9"
+    INSTALL_MODE: manually
+    value: "@Cleft_Chin9"
+ diffuse:
+    label: "Genx"
+    configuration: "@genx"
+    INSTALL_MODE: manually
+    value: "@genx"
+    
+  
+
+   
+    
+
+ 
+     
+        
